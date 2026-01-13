@@ -2,7 +2,7 @@
 
 **What if you could use AI on your most sensitive data - and prove no one else can see it?**
 
-TinyCloud is private AI infrastructure that combines TEE-based inference with sovereign data storage. We believe ownership comes before privacy - when you truly own your data, privacy follows.
+TinyCloud is private AI infrastructure that combines TEE-based compute and inference with sovereign data storage. We believe ownership comes before privacy - when you truly own your data, privacy follows.
 
 ## What We're Building
 
