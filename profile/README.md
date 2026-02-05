@@ -19,7 +19,7 @@ TinyCloud is private AI infrastructure that combines TEE-based compute and infer
 | Repository                                                        | Description                             |
 | ----------------------------------------------------------------- | --------------------------------------- |
 | [tinycloud-node](https://github.com/TinyCloudLabs/tinycloud-node) | Core Rust backend server and SDK        |
-| [web-sdk](https://github.com/TinyCloudLabs/web-sdk)               | TypeScript/WASM SDK for web and Node.js |
+| [js-sdk](https://github.com/TinyCloudLabs/js-sdk)                 | TypeScript/WASM SDK for web and Node.js |
 | [docs](https://github.com/TinyCloudLabs/docs)                     | Documentation and guides                |
 
 ## Learn More
