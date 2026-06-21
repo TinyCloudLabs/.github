@@ -11,8 +11,8 @@ TinyCloud is private AI infrastructure that combines TEE-based compute and infer
   Execution Environments with cryptographic proof of privacy
 - **Sovereign Storage** - User-owned data spaces where you control access, not
   platforms
-- **Developer-First SDKs** - Build privacy-preserving applications without the
-  complexity
+- **Agent/Developer Friendly SDKs** - Build privacy-preserving applications without
+  the complexity. For you or your agent
 
 ## Repositories
 
