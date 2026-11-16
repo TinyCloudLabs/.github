@@ -1,17 +1,19 @@
 # TinyCloud Labs
 
-**One user-controlled data layer for your apps and AI agents.**
+**What if you could use AI on your most sensitive data?**
 
-TinyCloud provides data spaces and capability-based access: apps and agents receive the scopes you approve. Access control is not encryption. Ordinary data on hosted nodes is currently stored in plaintext at rest, without encryption at rest or end-to-end encryption. See [Security and trust](https://docs.tinycloud.xyz/concepts/security-and-trust) for operator access, key custody and application-specific encryption boundaries.
+TinyCloud is private AI infrastructure that combines TEE-based compute and inference with sovereign data storage. We believe ownership comes before privacy - when you truly own your data, privacy follows.
+
+Access control is not encryption: ordinary data in a TinyCloud space is not end-to-end encrypted, and the node that hosts the space can read it in order to serve it. See [Security and trust](https://docs.tinycloud.xyz/concepts/security-and-trust) for key custody, TEE limits and application-level encryption.
 
 ## What We're Building
 
-- **Scoped Agent Access** - Grant apps and agents specific resources and actions
-  through capabilities
-- **User-Controlled Storage** - Keep data in shared spaces rather than one app's
-  silo; hosted operators can access unencrypted values
-- **Agent/Developer Friendly SDKs** - Build interoperable applications for you or
-  your agent
+- **Verifiable AI Processing** - Run AI on confidential data inside Trusted
+  Execution Environments
+- **Sovereign Storage** - User-owned data spaces where you control access, not
+  platforms
+- **Agent/Developer Friendly SDKs** - Build privacy-preserving applications without
+  the complexity. For you or your agent
 
 ## Repositories
 
