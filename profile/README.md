@@ -1,14 +1,15 @@
 # TinyCloud Labs
 
-**What if you could use AI on your most sensitive data - and prove no one else
-can see it?**
+**What if you could use AI on your most sensitive data?**
 
 TinyCloud is private AI infrastructure that combines TEE-based compute and inference with sovereign data storage. We believe ownership comes before privacy - when you truly own your data, privacy follows.
+
+Access control is not encryption: ordinary data in a TinyCloud space is not end-to-end encrypted, and the node that hosts the space can read it in order to serve it. See [Security and trust](https://docs.tinycloud.xyz/concepts/security-and-trust) for key custody, TEE limits and application-level encryption.
 
 ## What We're Building
 
 - **Verifiable AI Processing** - Run AI on confidential data inside Trusted
-  Execution Environments with cryptographic proof of privacy
+  Execution Environments
 - **Sovereign Storage** - User-owned data spaces where you control access, not
   platforms
 - **Agent/Developer Friendly SDKs** - Build privacy-preserving applications without
